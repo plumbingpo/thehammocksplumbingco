@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thehammocksplumbingco.com/sitemap.xml
